@@ -1,2 +1,3 @@
 # Todo-List-Project
-A Todo List!
+
+HTML/CSS/jQuery
